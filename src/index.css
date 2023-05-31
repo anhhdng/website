@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+body {
+  margin: 0;
+  font-family: 'Fredoka';
+  background-image: linear-gradient(to left top, rgb(198, 235, 197), rgb(198, 235, 197));
+}
