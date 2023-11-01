@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/anhhdng.github.io/Taste-Tunes/static/css/main.38f0631a.css",
-    "main.js": "/anhhdng.github.io/Taste-Tunes/static/js/main.1ee537f9.js",
-    "index.html": "/anhhdng.github.io/Taste-Tunes/index.html",
-    "main.38f0631a.css.map": "/anhhdng.github.io/Taste-Tunes/static/css/main.38f0631a.css.map",
-    "main.1ee537f9.js.map": "/anhhdng.github.io/Taste-Tunes/static/js/main.1ee537f9.js.map"
+    "main.css": "/anhhdng/Taste-Tunes/static/css/main.38f0631a.css",
+    "main.js": "/anhhdng/Taste-Tunes/static/js/main.6289991b.js",
+    "index.html": "/anhhdng/Taste-Tunes/index.html",
+    "main.38f0631a.css.map": "/anhhdng/Taste-Tunes/static/css/main.38f0631a.css.map",
+    "main.6289991b.js.map": "/anhhdng/Taste-Tunes/static/js/main.6289991b.js.map"
   },
   "entrypoints": [
     "static/css/main.38f0631a.css",
-    "static/js/main.1ee537f9.js"
+    "static/js/main.6289991b.js"
   ]
 }
